@@ -35,7 +35,6 @@ extern void _wrap_Swig_free_virgo_5d49524f1f5cf8df(uintptr_t arg1);
 extern uintptr_t _wrap_Swig_malloc_virgo_5d49524f1f5cf8df(swig_intgo arg1);
 extern void _wrap_virgo_virgo_5d49524f1f5cf8df(swig_type_1 arg1, swig_type_2 arg2, swig_type_3 arg3);
 #undef intgo
-#cgo LDFLAGS: -L /usr/local/lib -lvirgo -lflo-shani
 */
 import "C"
 
